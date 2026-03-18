@@ -1,0 +1,171 @@
+<FlippingBook>
+	<width>1024</width>
+	<height>768</height>
+
+	<scaleContent>false</scaleContent>
+	<firstPage>0</firstPage>
+	<alwaysOpened> true </alwaysOpened>
+	<autoFlip> 0 </autoFlip>
+	<flipOnClick> false </flipOnClick>
+
+	<shadowsDepth> 0.5 </shadowsDepth>
+
+	<moveSpeed> 8 </moveSpeed>
+	<closeSpeed> 1 </closeSpeed>
+	<gotoSpeed> 2 </gotoSpeed>
+
+	<flipSound> </flipSound>
+	<pageBack> 0x333333 </pageBack>
+
+	<loadOnDemand> true </loadOnDemand>
+	<cachePages> true </cachePages>
+	<usePreloader> false </usePreloader>
+
+	<pages>
+		<page> recursos/intro01.jpg</page>
+		<page> recursos/intro02.jpg</page>
+		<page> recursos/intro03.jpg</page>
+		<page> recursos/intro04.jpg</page>
+	</pages>
+	<parametros 
+		minEscalaVentana2="60"
+		colorStopDesactivadoN2="444444"
+		colorStopDesactivadoN3="CCCCCC"
+		separacionPaginas="of"
+		
+		nombreProducto="Personal Best A1 "
+		codigoProducto="PersonalBestA1i-book"
+		COD="4aáº4p¯D|4aápó¯2ä8"
+		edicion="2017"
+				tiempoCreditos="10"
+		introFlip="si"
+		colorFondo="FFFFFF"
+		colorMarco="f3e1f1"
+		colorBorde="000000"
+		herramientasEnEjercicios="si"
+		suavizarFondos="si"
+		ficheroZoom="png"
+		ajustarZonaVentana="si"
+		cerrarVentanaNavegador="js:cerrarVentana">
+		
+		<parametrosLibro enlacesUDs="4,14,22,24,32,40,42,50,58,60,68,76,78,86,94,96,106,134,151" pagInicio="1" pagIndice="1" colorBordeZona="FF0000" tipoBordeZona="S" tamBordeZona="2" alphaSombraZona="33"/>
+		<parametrosLibro enlacesUDs="3,10,16,22,28,34,40,46,52,58,64" pagInicio="1" pagIndice="1" colorBordeZona="FF0000" tipoBordeZona="S" tamBordeZona="2" alphaSombraZona="33"/>
+		<parametrosLibro enlacesUDs="20,40,60,76,96,112,132,148,168,184,204,224,280,305,316" pagInicio="1" pagIndice="1" colorBordeZona="FF0000" tipoBordeZona="S" tamBordeZona="2" alphaSombraZona="33"/>
+	</parametros>
+	<precarga colorFnd="d9ecf0" colorBrd="006d81" colorPz="0097ab" colorSp="0097ab"/>
+	<parametros
+		xEnunciados="0" 
+		yEnunciados="0" 
+		tamEnunciados="0" 
+		colorEnunciados="000000"
+		
+		margenSuperior="0"
+		margenIzquierdo="0"
+
+		visualComprobar="inicio"
+		xComprobar="0" 
+		yComprobar="0" 
+
+		visualSoluciones="inicio"
+		solucionesModoParcial="si"
+		xSoluciones="0"
+		ySoluciones="0" 
+
+		xSolucionarioInteractivo="0" 
+		ySolucionarioInteractivo="0" 
+
+		xConsolaAudio="0" 
+		yConsolaAudio="0"
+		
+		xRecargar="0" 
+		yRecargar="0" 
+		modulosConRecargar="todos" 
+
+		visualReintentar="comprobar"
+		xReintentar="0" 
+		yReintentar="0" 
+		maxNumReintentos="1000000"
+		modulosConReintentar="todos" 
+
+		colorVerdeComprobar="80FF80,100"
+		colorRojoComprobar="FF4040,100"
+		colorRollOver="F3F3F3,100"
+		colorResaltar="FFFF00,100"
+		colorDifuminar="f7f7f7,100"
+		colorMarcar="D61818,50"
+		colorSolucionarioInteractivo="80FF80,100"
+
+		audiosSoluciones=",,,,,,,,,,"
+		audiosCorreccion=",">
+	</parametros>
+	<botonesN2 textos="" separacionTitulos=" " anularBotones="32,34,56"/>
+	<alertasNotas 
+		textoEliminar="Delete?"
+		textoBorrar="Delete all handwritten notes on this page?##Delete all handwritten notes on this window?"
+		textoBorrarNotas="Delete all notes, links and files on this page?##Delete all notes, links and files on this window?"
+		textoBorrarTodo="Delete all?"
+		textoOK="Yes"
+		textoCANCEL="No"
+		textoBuscar="Search file"
+
+		mensajeCAD1="Please update the date on your computer."
+		mensajeCAD2="This product has expired and can't be used.**Please contact your Richmond Rep to get a new version of this product."
+		mensajeCAD3="This product expires on ##. ## days left.**Please contact your Richmond Rep to get a new version of this product."
+		mensajeCAD4="This product expires on ## days."
+		mensajeCAD5="Please update the date on your computer."
+		mensajeCAD6="Data error."
+		textoBotonCAD="OK"
+
+		mensajeAcceso1 = "fondo:vtnAcceso"
+		mensajeAcceso2 = "Invalid password."
+		mensajeAcceso3 = "Invalid password."
+		mensajeAcceso4 = "Invalid password."
+		mensajeAcceso5 = "Correct password.**Product valid until #f#"
+		mensajeAcceso6 = "Product valid until #f#"
+		textoBotonCancelarAcceso="Cancel"
+
+		themeColor="haloBlue"
+		colorTapa="000000"
+		alphaTapa="33"
+		
+		tituloVentanaGuardar="Save session"
+		txtBotonVentanaGuardar="Save"
+		txtSobreescribirVentanaGuardar="Are you sure you want to save these changes in ##?"
+		tituloVentanaCargar="Open session"
+		txtBotonVentanaCargar="Open"
+		textoNoDisponible="Not available in browser view"
+		botonNoDisponible="OK"
+		
+		ocultarPaletasTrazos="si"
+		
+		colorMascaras="000000"
+		alphaMascara1="20"
+		limpiarMascaras="no"
+		mantenerMascaras="si"
+		reiniciarMascaras="no"
+		textoBorrarMascaras="Clean?" 
+
+		tiempoInicialReloj="0:00"
+		tiempoAlertaReloj="5"
+		colorAlertaReloj="FF0000"
+		sentidoInicialReloj="adelante"
+
+		grupoMisNotas="MN"
+		zonaBtnMisNotas="AX999,1"
+		idN2TitMisNotas="56"
+		coordTitMisNotas="8,5">
+	</alertasNotas>
+	<gestorSesiones 
+		mensaje1="This session already exists" 
+		mensaje2="Enter session title" 
+		mensaje3="Are you sure you want to delete this session?"
+		mensaje4="Are you sure you want to update all the information**contained in ##?"
+		mensaje5="This session does not contain any new information" 
+		mensaje6="Unknown file" 
+		mensaje7="This file does not exist"
+		mensaje8="Session ready"
+		mensaje9="Session saved"
+		extFicheros="ibs"
+		descFicheros="i-book session">
+	</gestorSesiones>
+</FlippingBook>

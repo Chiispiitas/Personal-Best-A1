@@ -1,0 +1,1 @@
+<?xml version="1.0"?>	<PAGINA>		<ZONA boton="0,0,506,659" nota="ZONA 1">			<BOTON id="avance" vinculo="TB132,1"/>			<BOTON id="retroceso" vinculo="TB130,1"/>		</ZONA>		<ZONA boton="46,81,206,95" activa="no" nota="ZONA 2"></ZONA>		<ZONA boton="48,202,204,98" activa="no" nota="ZONA 3"></ZONA>		<ZONA boton="45,499,205,131" activa="no" nota="ZONA 4"></ZONA>	</PAGINA>

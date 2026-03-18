@@ -1,0 +1,114 @@
+<FlippingBook>
+	<width>1012</width>
+	<height>659</height>
+
+	<scaleContent>false</scaleContent>
+	<firstPage>0</firstPage>
+	<alwaysOpened> true </alwaysOpened>
+	<autoFlip> 50 </autoFlip>
+	<flipOnClick> false </flipOnClick>
+
+	<shadowsDepth> 0.5 </shadowsDepth>
+
+	<moveSpeed> 8 </moveSpeed>
+	<closeSpeed> 8 </closeSpeed>
+	<gotoSpeed> 3 </gotoSpeed>
+
+	<flipSound> </flipSound>
+	<pageBack> 0xFFFFFF </pageBack>
+
+	<loadOnDemand> true </loadOnDemand>
+	<cachePages> true </cachePages>
+	<usePreloader> true </usePreloader>
+
+	<pages>
+		<page> recursos/pg0.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+		<page> recursos/pag.swf </page>
+		<page> recursos/pag.swf </page>
+
+	</pages>
+	<parametros 
+		grupo="WB" 
+		extraerParametrosDeConfig01="si"
+	/>
+	<ventana1 extraerParametrosDeConfig01="si"/>
+	<ventana2 extraerParametrosDeConfig01="si"/>
+</FlippingBook>
